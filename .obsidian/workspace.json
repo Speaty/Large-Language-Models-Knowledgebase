@@ -11,11 +11,88 @@
             "id": "53665f00ffff0c1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Retrieval-Augmented Generation (RAG).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bef983a684d8623b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Retrieval-Augmented Generation (RAG).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83c81ec7db63c0cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development Tools and Frameworks/Tooling and Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38dc85fd705b1bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c48d0048224ab5d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Retrieval-Augmented Generation (RAG).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5653beafa4ce59da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repositories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "813404032a241033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Retrieval-Augmented Generation (RAG).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "393da78faa7d516c",
@@ -95,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Repositories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Repositories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Repositories.md"
+              }
             }
           }
         ]
@@ -153,8 +234,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "624a79ac6bc37918",
+  "active": "5653beafa4ce59da",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "Meeting Notes.md",
+    "Meeting Notes/Meeting Notes.md",
+    "Meeting Notes",
+    "Repositories.md",
+    "Core Concepts/Retrieval-Augmented Generation (RAG).md",
+    "Academic Papers.md",
+    "GraphRAG.md",
+    "README.md",
+    "Large Language Models/Key Terminologies.md",
+    "Architectures.md",
+    "Development Tools and Frameworks/Tooling and Framework.md",
+    "Large Language Models",
+    "Core Concepts",
+    "Development Tools and Frameworks",
+    "Resources and References",
     "Welcome.md"
   ]
 }
