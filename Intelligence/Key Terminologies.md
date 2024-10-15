@@ -1,0 +1,5 @@
+| Term         | Definition                                                                                                                                                               | Source |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| Embodiment   |                                                                                                                                                                          |        |
+| Situatedness | The agent or animal is in the world: they do not deal with abstract descriptions but with the here and now of the world directly influencing the behaviour of the system |        |
+| Intelligence |                                                                                                                                                                          |        |
