@@ -149,8 +149,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53665f00ffff0c1c",
+  "active": "624a79ac6bc37918",
   "lastOpenFiles": [
+    "Large Language Models/Visual Language Models (VLMs).md",
+    "hidden/Elevator Pitch.md",
+    "hidden",
+    "Meeting Notes/Supervision meeting notes.md",
     "Large Language Models/Retrieval-Augmented Generation (RAG).md",
     "Visual Language Models (VLMs).md",
     "Resources and References/Academic Papers.md",
@@ -175,7 +179,6 @@
     "static/img/Visual Language Models (VLMs)",
     "static/img/New folder",
     "static/img",
-    "static/New folder",
     "LICENSE.md",
     "Core Concepts/Architectures.md",
     "Meeting Notes/Meeting Notes.md",
