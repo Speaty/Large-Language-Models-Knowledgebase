@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes.md",
+                "file": "Large Language Models/UNITER (UNiversal Image-TExt Representation Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Notes"
+              "title": "UNITER (UNiversal Image-TExt Representation Learning"
             }
           }
         ],
@@ -219,9 +219,15 @@
   },
   "active": "5ff8bc6a00603759",
   "lastOpenFiles": [
+    "Meeting Notes/URF Meeting Notes.md",
     "2024-10-24.md",
-    "Large Language Models/UNITER (UNiversal Image-TExt Representation Learning.md",
+    "hidden/2024-10-24.md",
     "Daily Notes.md",
+    "hidden/Daily Notes.md",
+    "Meeting Notes",
+    "hidden/Meeting Notes",
+    "hidden",
+    "Large Language Models/UNITER (UNiversal Image-TExt Representation Learning.md",
     "Large Language Models/Visual Language Models (VLMs).md",
     "static/img/Visual Language Models (VLMs)/UNITER VLM.png",
     "LLM Benchmarks/Benchmarks/UMIC (Unreferenced Metric for Image Captioning).md",
@@ -248,17 +254,12 @@
     "LLM Benchmarks/Benchmarks",
     "LLM Benchmarks",
     "URF Meeting Notes.md",
-    "hidden/Elevator Pitch.md",
-    "hidden",
-    "Meeting Notes/Supervision meeting notes.md",
     "static/img/Visual Language Models (VLMs)/asif.png",
     "static/img/Visual Language Models (VLMs)/asif.png.crdownload",
     "static/img/Visual Language Models (VLMs)/mlm_itm.png",
     "static/img/Visual Language Models (VLMs)/mlm_itm.png.crdownload",
     "static/img/Visual Language Models (VLMs)/cross_attention_fusing.png",
-    "static/img/Visual Language Models (VLMs)/cross_attention_fusing.png.crdownload",
     "static/img/Visual Language Models (VLMs)/frozen_prefixlm.png",
-    "static/img/Visual Language Models (VLMs)/frozen_prefixlm.png.crdownload",
     "static/img/Visual Language Models (VLMs)/prefixlm.png",
     "static/img/Visual Language Models (VLMs)/contrastive_learning.png"
   ]
