@@ -1,0 +1,4 @@
+- 16/10/24 - Minutes
+	- Podcasting split into admin and tech roles, Neil to take on tech with assistance from Tom
+	- Teddy remains on podcasting administration
+	- Student Radio Awards 19th November @ £16pp 

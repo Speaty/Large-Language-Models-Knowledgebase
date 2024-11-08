@@ -1,0 +1,2 @@
+
+Static sentence completion benchmark

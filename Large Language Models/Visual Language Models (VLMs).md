@@ -80,4 +80,4 @@ Using pre-trained image and text models or adapt pre-trained multi-modal models 
 
 # More Info on VLMs
 - [Hugging Face - A Dive into Vision-Language Models](https://huggingface.co/blog/vision_language_pretraining)
-- 
+- [[UNITER (UNiversal Image-TExt Representation Learning]]
