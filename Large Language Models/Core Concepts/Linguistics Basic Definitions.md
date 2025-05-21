@@ -1,0 +1,13 @@
+
+| Word      | Definition                                                                                                                 | Example                                                                                          |
+| --------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Homonymy  | Broad distinctions                                                                                                         | Plant as in living organism, and as in place for industrial process                              |
+| Polysemy  | Fine-grained distinctions, appearing in multiple synsets                                                                   | Book as in pages bound together, a set of accounts, a bookkeepers ledger, a referees notebook... |
+| Synonymy  | Two words that share the same meening                                                                                      | Smile and grin, talk and converse, book and reserve                                              |
+| Antonymy  | Words that are opposite in meaning                                                                                         | Hot & cold, rise & fall                                                                          |
+| Hyponymy  | Captures class inclusion. A hyponym is a subclass of the hypernym. Words that share common hypernym are called co-hyponyms | Dog is a hyponym of animal, poodle is a hyponym of dog and animal                                |
+| Hypernymy | Captures class inclusion. A hypernym is a parent of the hyponym                                                            | Animal is a hypernym of dog. Dog is a hypernym of poodle                                         |
+| Metronymy |                                                                                                                            |                                                                                                  |
+| Holonymy  |                                                                                                                            |                                                                                                  |
+|           |                                                                                                                            |                                                                                                  |
+## WordNet

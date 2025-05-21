@@ -1,0 +1,12 @@
+- `rm ./[dir]` Remove file/directory
+	- `-r` for recursive 
+	- `-f` for force 
+- `scp /path/to/source user@server:/path/to/destination` Copy a directory from one server to another
+	- `-r` for recursive
+	- `scp -r js2042@ood.artemis.hrc.sussex.ac.uk:/mnt/lustre/users/inf/js2042/ ~/Downloads/`
+- `du` Estimate disk usage for current directory
+	- `-h` for human readable
+	- `-d [1]` for depth limit
+- `df` Reports disk space usage. 
+	- `-h` human readable
+	- 

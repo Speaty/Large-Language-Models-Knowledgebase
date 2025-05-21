@@ -2,7 +2,7 @@
 
 Bi-Lingual Evaluation Understudy - machine translation benchmark 
 
-Attempts to measure how close a machine generated text is to a human one.
+Attempts to measure how close a machine generated (candidate) text is to a human one (reference) by comparing overlapping n-grams. Effectively, the more n-grams the candidate shares with the references, the higher its BLEU score. 
 
 ## Metrics
 Uses n-gram precision with a brevity penalty.
@@ -25,8 +25,7 @@ P_n = \frac{\sum_{x \in \text{n-grams}} \text{Clipped Count}(x)}{\sum_{x \in \te
 $$
 
 2) **Calculate the Geometric Mean of Precisions:**
-
-Just adding up the precisions and dividing by number of n-grams used
+Just multiplying the precisions and taking the $n$-th root
  $$
 P = \left( \prod_{i=1}^{n} P_i \right)^{\frac{1}{n}}
 $$
@@ -41,3 +40,5 @@ $$
 $$
 \text{BLEU} = BP \times \exp \left( \sum_{i=1}^{n} w_i \, \log P_i \right)
 $$
+## Notes
+A single low value of $p_n$ will significantly reduce the overall geometric mean. 

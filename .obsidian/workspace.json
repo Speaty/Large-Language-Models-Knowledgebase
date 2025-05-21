@@ -4,67 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "5553b5bb44f382a7",
+        "id": "d8839fc77c4c8f29",
         "type": "tabs",
         "children": [
           {
-            "id": "8fca02bb744f05ed",
+            "id": "207a13d5f3a859df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Benchmarks/LLM Benchmarks.md",
+                "file": "hidden/Meeting Notes/Daily Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM Benchmarks"
+              "title": "Daily Notes"
             }
           },
           {
-            "id": "55761929478498a4",
+            "id": "f07e948733a4ef57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Benchmarks/BERTScore.md",
+                "file": "Panpsychism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BERTScore"
+              "title": "Panpsychism"
             }
           },
           {
-            "id": "6fa19a5b2af1b041",
+            "id": "13c72eb42feb68a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Large Language Models/Prompting/Effective Prompt Guidelines.md",
+                "file": "hidden/Meeting Notes/Daily Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Effective Prompt Guidelines"
+              "title": "Daily Notes"
             }
           },
           {
-            "id": "5ff8bc6a00603759",
+            "id": "53d4a1d711bde250",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Large Language Models/UNITER (UNiversal Image-TExt Representation Learning.md",
+                "file": "Maths/Random Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNITER (UNiversal Image-TExt Representation Learning"
+              "title": "Random Variables"
+            }
+          },
+          {
+            "id": "384c762e435eb269",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Large Language Models/Multi-agent LLMs/Multi-agent LLMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi-agent LLMs"
+            }
+          },
+          {
+            "id": "1d287fe14b9cae8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources and References/Academic Papers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Academic Papers"
+            }
+          },
+          {
+            "id": "8d179d7dc2e63a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources and References/Academic Papers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Academic Papers"
+            }
+          },
+          {
+            "id": "794f692243516429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hidden/Experiments/Does an LLM's Output Format Affect Performance?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Does an LLM's Output Format Affect Performance?"
+            }
+          },
+          {
+            "id": "5df986342a97349c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM Benchmarks & Evaluation Metrics/Benchmarks/Constraint Satisfaction Problems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Constraint Satisfaction Problems"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -83,7 +153,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -217,50 +288,55 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5ff8bc6a00603759",
+  "active": "794f692243516429",
   "lastOpenFiles": [
-    "Meeting Notes/URF Meeting Notes.md",
-    "2024-10-24.md",
-    "hidden/2024-10-24.md",
-    "Daily Notes.md",
-    "hidden/Daily Notes.md",
-    "Meeting Notes",
-    "hidden/Meeting Notes",
-    "hidden",
-    "Large Language Models/UNITER (UNiversal Image-TExt Representation Learning.md",
-    "Large Language Models/Visual Language Models (VLMs).md",
-    "static/img/Visual Language Models (VLMs)/UNITER VLM.png",
-    "LLM Benchmarks/Benchmarks/UMIC (Unreferenced Metric for Image Captioning).md",
-    "LLM Benchmarks/LLM Benchmarks.md",
-    "LLM Benchmarks/Benchmarks/BLEu.md",
+    "hidden/Experiments/Experiment on LLM Output Structure.md",
+    "hidden/Experiments/Does an LLM's Output Format Affect Performance?.md",
+    "Resources and References/Linux Commands.md",
+    "ANLE Marking.md",
     "Resources and References/Academic Papers.md",
-    "Untitled.md",
-    "Large Language Models/Prompting/Effective Prompt Guidelines.md",
-    "LLM Benchmarks/BERTScore.md",
-    "Large Language Models/Prompting",
-    "LLM Benchmarks/Benchmarks/Chatbot Arena.md",
-    "Large Language Models/Key Terminologies.md",
-    "LLM Benchmarks/Benchmarks/TruthfulQA.md",
-    "LLM Benchmarks/Benchmarks/MT Bench.md",
-    "LLM Benchmarks/Benchmarks/MMLU.md",
-    "LLM Benchmarks/Benchmarks/HellaSwag.md",
-    "Resources and References/Repositories.md",
-    "Large Language Models/Retrieval Augmented Generation",
-    "Large Language Models/Retrieval-Augmented Generation (RAG).md",
-    "LLM Benchmarks/Benchmarks/BBH.md",
-    "Linguistics/Transformational Grammar.md",
-    "Linguistics",
-    "HellaSwag.md",
+    "LLM Benchmarks & Evaluation Metrics/Evaluation Metrics/Pass@k.md",
+    "Large Language Models/TextGrad.md",
+    "LLM Benchmarks & Evaluation Metrics/Benchmarks/Constraint Satisfaction Problems.md",
+    "LLM Benchmarks & Evaluation Metrics/Evaluation Metrics/Task Complexity.md",
+    "Large Language Models/Core Concepts/Decoding Strategy.md",
+    "Large Language Models/Multi-agent LLMs/DyLAN.md",
+    "Large Language Models/Core Concepts/Reinforcement Learning.md",
+    "hidden/Artemis.md",
+    "Large Language Models/Agents/Tool Use.md",
+    "Large Language Models/Agents",
+    "Large Language Models/Multi-agent LLMs/Multi-agent LLMs.md",
+    "hidden/RADIO/URF Meetings + Notes.md",
+    "Large Language Models/Core Concepts/LoRA.md",
+    "LLM Benchmarks & Evaluation Metrics/Benchmarks/GSM-8K.md",
     "LLM Benchmarks/Benchmarks",
     "LLM Benchmarks",
-    "URF Meeting Notes.md",
+    "hidden/Notes/Angling Soc.md",
+    "hidden/Meeting Notes/Daily Notes.md",
+    "hidden/misc/Three Pass.md",
+    "hidden/RADIO",
+    "Maths/Random Variables.md",
+    "Large Language Models/Multi-agent LLMs",
+    "Large Language Models/Models",
+    "Large Language Models/Multi-modal LLMs",
+    "hidden/bestaCheckEmbedEffectiveVerification2024.md",
+    "hidden/Experiments",
+    "hidden/Notes",
+    "Maths/Matrices.md",
+    "LLM Benchmarks & Evaluation Metrics/Benchmarks/HumanEval.md",
+    "LLM Benchmarks & Evaluation Metrics/Evaluation Metrics",
+    "LLM Benchmarks & Evaluation Metrics/LLM Benchmarks.md",
+    "Untitled.canvas",
+    "static/img/json-nl-similarity-json-2-str.png",
+    "Untitled 1.canvas",
+    "static/img/transformer.png",
+    "static/img/ELMo-base-model.png",
+    "static/img/json-nl-similarity-basic-results.png",
+    "static/img/Visual Language Models (VLMs)/UNITER VLM.png",
     "static/img/Visual Language Models (VLMs)/asif.png",
-    "static/img/Visual Language Models (VLMs)/asif.png.crdownload",
     "static/img/Visual Language Models (VLMs)/mlm_itm.png",
-    "static/img/Visual Language Models (VLMs)/mlm_itm.png.crdownload",
     "static/img/Visual Language Models (VLMs)/cross_attention_fusing.png",
     "static/img/Visual Language Models (VLMs)/frozen_prefixlm.png",
-    "static/img/Visual Language Models (VLMs)/prefixlm.png",
-    "static/img/Visual Language Models (VLMs)/contrastive_learning.png"
+    "static/img/Visual Language Models (VLMs)/prefixlm.png"
   ]
 }

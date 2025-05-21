@@ -8,7 +8,7 @@ Dynamic is difficult to repeat in changing environments but less likely to be co
 ## Evaluation Metrics
 
 ### Similarity Scores
-- [[BLEu]] uses modified n-gram precision to measure how close a generated sentence is to expected output
+- [[BLEU]] uses modified n-gram precision to measure how close a generated sentence is to expected output
 	- Ground Truth in the sense that it requires an expected output so no good on generation but great for translation tasks
 	- Lots of spins offs: 
 		- [[ROUGE]] is recall oriented and is better for summarisation tasks
@@ -20,7 +20,7 @@ Dynamic is difficult to repeat in changing environments but less likely to be co
 ## Ground Truth
 - [[HellaSwag]]
 - [[MMLU]]
-- [[LLM Benchmarks/Benchmarks/GSM-8K|GSM-8K]]
+- [[GSM-8K|GSM-8K]]
 
 ## Reference-free Metrics
 - [[CLIPScore]]
@@ -42,12 +42,13 @@ Dynamic is difficult to repeat in changing environments but less likely to be co
 3) **Coding:**
 	- [[Chatbot Arena|Chabot Arena]]
 	- [[MT Bench|MT Bench]]
+	- [[HumanEval]]
 4) **Conversation and Chatbots:**
 	- [[Chatbot Arena|Chabot Arena]]
 	- [[MT Bench|MT Bench]]
 5) **Translation:**
 	- [[Chatbot Arena|Chabot Arena]]
-	- [[BLEu|BLEu]]
+	- [[BLEU|BLEU]]
 6) **Mathematics:**
 	- [[Chatbot Arena|Chabot Arena]]
 	- [[MT Bench|MT Bench]]
@@ -58,4 +59,12 @@ Dynamic is difficult to repeat in changing environments but less likely to be co
 	- [[Chatbot Arena|Chabot Arena]]
 	- [[MT Bench|MT Bench]]
 
-# Multi-Agent Benchmarks
+| Type              | Benchmark                                   | Size   | Question Format | Answer Format   | Notes                                            |
+| ----------------- | ------------------------------------------- | ------ | --------------- | --------------- | ------------------------------------------------ |
+| Reading Comp      | ReClor                                      | 500    | Free Text       | Multiple Choice |                                                  |
+| Reading Comp      | LogiQA                                      | 1572   | Free Text       | Multiple Choice | Chinese Civil Service Exam translated to Engligh |
+| NLI               | ConTRoL                                     |        |                 |                 |                                                  |
+| NLI               | MED                                         |        |                 |                 |                                                  |
+| Logical Reasoning | Commonsense_qa                              | 12,102 | Free Text       | Multiple Choice |                                                  |
+| Word Prediction   | LAMBADA                                     |        | Free Text       |                 |                                                  |
+| NL understanding  | General Language Understanding Eval. (GLUE) |        |                 |                 |                                                  |
