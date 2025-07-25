@@ -213,3 +213,38 @@ The authors acknowledge that the edited posts can obscure the context.
 **Questions:**
 - 
 **Rating:**
+
+
+
+## Generalizaion through Lexical Abstraction in Transformer Models: The Case of Functional Words - ACL submission
+**Summary:**
+- 
+
+**Soundness:**
+
+**Presentation:**
+- 
+
+**Contribution:**
+- 
+
+**Strengths:**
+
+
+**Weaknesses:**
+- 
+**Questions:**
+- 
+**Rating:**
+
+
+
+
+Simon Bowes - embodiment
+
+benchmarks - SNLI RTE for early reasoning benchmarks
+
+
+What would a paper look like?
+- multi agent architectures
+- 
